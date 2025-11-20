@@ -5,5 +5,6 @@ public class Account {
     Long id;
     String name;
     double balance;
+    double balanceWithdraw;
 
 }
