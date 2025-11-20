@@ -6,5 +6,6 @@ public class Account {
     String name;
     double balance;
     double balanceWithdraw;
+    Double balanceDeposit;
 
 }
